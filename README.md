@@ -4,13 +4,6 @@ Provides a simple method of rewriting the URLs of assets and resources to allow 
 
 https://github.com/DorsetDigital/silverstripe-cdnrewrite
 
-
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-cdnrewrite/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-cdnrewrite/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-cdnrewrite/badges/build.png?b=master)](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-cdnrewrite/build-status/master)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE.md)
-[![Version](http://img.shields.io/packagist/v/dorsetdigital/silverstripe-cdnrewrite.svg?style=flat)](https://packagist.org/packages/dorsetdigital/silverstripe-cdnrewrite)
-
-
 # Requirements
 *Silverstripe 4.x
 
