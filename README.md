@@ -27,6 +27,7 @@ https://github.com/DorsetDigital/silverstripe-cdnrewrite
         "dorsetdigital/silverstripe-cdnrewrite": "dev-master"
     },
    ``` 
+* Composer install
 * Run a `dev/build?flush` to update your project
 
 # Usage
