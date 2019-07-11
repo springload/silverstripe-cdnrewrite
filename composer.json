@@ -2,7 +2,7 @@
  "name": "dorsetdigital/silverstripe-cdnrewrite",
  "description": "Automatically rewrites the URLs of media and assets to use a CDN",
  "type": "silverstripe-vendormodule",
- "homepage": "https://github.com/springload/silverstripe-demo.git",
+ "homepage": "https://github.com/springload/silverstripe-cdnrewrite",
  "keywords": ["silverstripe", "cdn"],
  "authors": [
   {
