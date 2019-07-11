@@ -1,6 +1,8 @@
-# Silverstripe CDN Rewrite
+# Fork of Silverstripe CDN Rewrite by Dorset Digital
 
-Provides a simple method of rewriting the URLs of assets and resources to allow the use of a subdomain or external CDN service
+Provides a simple method of rewriting the URLs of assets and resources to allow the use of a subdomain or external CDN service. This fork is for development purposes internally. Please use the original instead:
+
+https://github.com/DorsetDigital/silverstripe-cdnrewrite
 
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-cdnrewrite/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-cdnrewrite/?branch=master)
@@ -13,7 +15,18 @@ Provides a simple method of rewriting the URLs of assets and resources to allow 
 *Silverstripe 4.x
 
 # Installation
-* Install the code with `composer require dorsetdigital/silverstripe-cdnrewrite`
+* Add the following to your projects composer.json file
+```
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/springload/silverstripe-cdnrewrite.git"
+        }
+    ],
+    "require": {
+        "dorsetdigital/silverstripe-cdnrewrite": "dev-master"
+    },
+   ``` 
 * Run a `dev/build?flush` to update your project
 
 # Usage
