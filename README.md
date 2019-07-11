@@ -17,7 +17,7 @@ https://github.com/DorsetDigital/silverstripe-cdnrewrite
         }
     ],
     "require": {
-        "dorsetdigital/silverstripe-cdnrewrite": "dev-master"
+        "silverstripe/silverstripe-cdnrewrite": "dev-master"
     },
    ``` 
 * Composer install
